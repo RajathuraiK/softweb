@@ -218,16 +218,16 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![alt text](<Hotel/softweb/static/Output1.png>)
+![alt text](Output1.png)
 
 
-![alt text](<Hotel/softweb/static/Output2.png>)
+![alt text](Output2.png)
 
 
-![alt text](<Hotel/softweb/static/Output3.png>)
+![alt text](Output3.png)
 
 
-![alt text](<Hotel/softweb/static/Output4.png>)
+![alt text](Output4.png)
 
 
 ## RESULT:
